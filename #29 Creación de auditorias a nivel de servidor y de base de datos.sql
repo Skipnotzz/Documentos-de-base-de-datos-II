@@ -1,0 +1,7 @@
+--Creación de
+CREATE LOGIN UNIFYCS WITH PASSWORD = 'uni'
+ALTER LOGIN UNIFYCS WITH PASSWORD = 'uni2000'
+
+SELECT * FROM Employees
+
+SELECT * FROM [Order Details]
